@@ -1,0 +1,21 @@
+company,ticker,country,sec_cik,reports_in_sec,notes
+Eli Lilly,LLY,US,0000059478,Yes,
+Novo Nordisk,NVO,DK,0000353278,Yes (20-F),Files 20-F as foreign private issuer
+Johnson & Johnson,JNJ,US,0000200406,Yes,
+AbbVie,ABBV,US,0001551152,Yes,
+Roche,RHHBY,CH,,No,Annual Report PDF from roche.com
+Merck & Co,MRK,US,0000310158,Yes,
+AstraZeneca,AZN,GB,0000901832,Yes (20-F),
+Novartis,NVS,CH,0001114448,Yes (20-F),
+Pfizer,PFE,US,0000078003,Yes,
+Bristol-Myers Squibb,BMY,US,0000014272,Yes,
+Amgen,AMGN,US,0000318154,Yes,
+Sanofi,SNY,FR,0001121404,Yes (20-F),
+GSK,GSK,GB,0001131399,Yes (20-F),
+Vertex Pharmaceuticals,VRTX,US,0000875320,Yes,
+Gilead Sciences,GILD,US,0000882095,Yes,
+Takeda,TAK,JP,0001585689,Yes (20-F),
+Regeneron,REGN,US,0000872589,Yes,
+Bayer,BAYRY,DE,,No,Annual Report PDF from bayer.com (Pharma segment only)
+Daiichi Sankyo,DSNKY,JP,,No,Annual Securities Report (Yuho) from daiichisankyo.com
+Moderna,MRNA,US,0001682852,Yes,

@@ -1,0 +1,41 @@
+brand_name,inn,company,modality,therapeutic_area,2024_global_sales_usd_bn,notes
+Keytruda,pembrolizumab,Merck & Co,Biologic (other),Oncology,29.5,PD-1 mAb
+Ozempic,semaglutide,Novo Nordisk,Biologic (other),Cardiometabolic,17.5,GLP-1 peptide
+Wegovy,semaglutide,Novo Nordisk,Biologic (other),Cardiometabolic,8.4,GLP-1 peptide (obesity)
+Mounjaro,tirzepatide,Eli Lilly,Biologic (other),Cardiometabolic,11.5,GIP/GLP-1 dual agonist peptide
+Zepbound,tirzepatide,Eli Lilly,Biologic (other),Cardiometabolic,4.9,Same molecule as Mounjaro (obesity)
+Eliquis,apixaban,BMS/Pfizer,Small molecule,Cardiovascular,13.3,Factor Xa inhibitor
+Humira,adalimumab,AbbVie,Biologic (other),Immunology,8.9,TNF mAb; biosimilar erosion underway
+Skyrizi,risankizumab,AbbVie,Biologic (other),Immunology,11.7,IL-23 mAb
+Rinvoq,upadacitinib,AbbVie,Small molecule,Immunology,6.0,JAK1 inhibitor
+Trikafta,elexacaftor/tezacaftor/ivacaftor,Vertex,Small molecule,Rare disease,10.2,CFTR modulator combo
+Biktarvy,bictegravir/emtricitabine/tenofovir,Gilead,Small molecule,Infectious disease,13.4,HIV combination
+Stelara,ustekinumab,Johnson & Johnson,Biologic (other),Immunology,10.4,IL-12/23 mAb; biosimilars from 2025
+Darzalex,daratumumab,Johnson & Johnson,Biologic (other),Oncology,11.7,CD38 mAb
+Opdivo,nivolumab,BMS,Biologic (other),Oncology,9.3,PD-1 mAb
+Eylea,aflibercept,Regeneron,Biologic (other),Ophthalmology,9.4,VEGF fusion protein
+Dupixent,dupilumab,Regeneron/Sanofi,Biologic (other),Immunology,14.1,IL-4/13 mAb
+Tagrisso,osimertinib,AstraZeneca,Small molecule,Oncology,6.6,EGFR inhibitor
+Lynparza,olaparib,AstraZeneca/Merck,Small molecule,Oncology,3.4,PARP inhibitor
+Imfinzi,durvalumab,AstraZeneca,Biologic (other),Oncology,4.7,PD-L1 mAb
+Repatha,evolocumab,Amgen,Biologic (other),Cardiovascular,2.2,PCSK9 mAb
+Cosentyx,secukinumab,Novartis,Biologic (other),Immunology,6.3,IL-17A mAb
+Entresto,sacubitril/valsartan,Novartis,Small molecule,Cardiovascular,7.8,Neprilysin inhibitor + ARB
+Kisqali,ribociclib,Novartis,Small molecule,Oncology,3.1,CDK4/6 inhibitor
+Trulicity,dulaglutide,Eli Lilly,Biologic (other),Cardiometabolic,5.3,GLP-1 fusion protein
+Jardiance,empagliflozin,Boehringer/Lilly,Small molecule,Cardiometabolic,11.7,SGLT2 inhibitor
+Verzenio,abemaciclib,Eli Lilly,Small molecule,Oncology,5.3,CDK4/6 inhibitor
+Comirnaty,tozinameran,Pfizer/BioNTech,mRNA,Vaccine,5.4,COVID-19 mRNA vaccine
+Spikevax,elasomeran,Moderna,mRNA,Vaccine,3.2,COVID-19 mRNA vaccine
+Prevnar 20,PCV20,Pfizer,Vaccine (non-mRNA),Vaccine,6.4,Pneumococcal conjugate
+Gardasil 9,HPV9,Merck & Co,Vaccine (non-mRNA),Vaccine,8.6,HPV recombinant
+Shingrix,zoster (recombinant),GSK,Vaccine (non-mRNA),Vaccine,4.5,Subunit shingles vaccine
+Enhertu,trastuzumab deruxtecan,Daiichi Sankyo/AstraZeneca,ADC,Oncology,3.8,HER2 ADC
+Padcev,enfortumab vedotin,Pfizer/Astellas,ADC,Oncology,1.6,Nectin-4 ADC
+Kadcyla,trastuzumab emtansine,Roche,ADC,Oncology,2.6,HER2 ADC
+Trodelvy,sacituzumab govitecan,Gilead,ADC,Oncology,1.3,Trop-2 ADC
+Yescarta,axicabtagene ciloleucel,Gilead,Cell & gene therapy,Oncology,1.6,CD19 CAR-T
+Kymriah,tisagenlecleucel,Novartis,Cell & gene therapy,Oncology,0.4,CD19 CAR-T
+Zolgensma,onasemnogene abeparvovec,Novartis,Cell & gene therapy,Rare disease,1.2,AAV9 SMN gene therapy
+Carvykti,ciltacabtagene autoleucel,J&J/Legend,Cell & gene therapy,Oncology,1.0,BCMA CAR-T
+Leqvio,inclisiran,Novartis,Biologic (other),Cardiovascular,0.8,siRNA — oligonucleotide
