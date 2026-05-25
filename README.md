@@ -71,4 +71,4 @@ streamlit run dashboard/app.py
 
 ## Author
 
-[Your name] — sales specialist transitioning into pharma data analytics. [LinkedIn] | [Portfolio]
+Yoonji Lee — Pharmaceutical sales specialist building data analytics skills through hands-on portfolio projects * Coworked with AI
